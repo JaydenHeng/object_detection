@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800_600</folder>
+	<filename>360615_pictures-inuyasha-and-sesshomaru-fighting_1024x768_h.jpg</filename>
+	<path>/home/jayden/Downloads/Test/800_600/360615_pictures-inuyasha-and-sesshomaru-fighting_1024x768_h.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sesshomaru</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>32</ymin>
+			<xmax>430</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
