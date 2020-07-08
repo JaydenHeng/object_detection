@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Object_Detection</folder>
-	<filename>download.jpeg</filename>
-	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/download.jpeg</path>
+	<filename>e3cf140ff5f72a7d36cc02d926220a23.jpg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/e3cf140ff5f72a7d36cc02d926220a23.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>168</height>
+		<width>1200</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>32</ymin>
-			<xmax>147</xmax>
-			<ymax>88</ymax>
+			<xmin>518</xmin>
+			<ymin>154</ymin>
+			<xmax>725</xmax>
+			<ymax>356</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Object_Detection</folder>
-	<filename>download.jpeg</filename>
-	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/download.jpeg</path>
+	<filename>images (6).jpeg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/images (6).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>lugia</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>32</ymin>
-			<xmax>147</xmax>
-			<ymax>88</ymax>
+			<xmin>125</xmin>
+			<ymin>111</ymin>
+			<xmax>184</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 </annotation>

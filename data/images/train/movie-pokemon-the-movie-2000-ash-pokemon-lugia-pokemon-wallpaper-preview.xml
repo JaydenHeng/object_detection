@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Object_Detection</folder>
+	<filename>movie-pokemon-the-movie-2000-ash-pokemon-lugia-pokemon-wallpaper-preview.jpg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/movie-pokemon-the-movie-2000-ash-pokemon-lugia-pokemon-wallpaper-preview.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lugia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>172</ymin>
+			<xmax>358</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
