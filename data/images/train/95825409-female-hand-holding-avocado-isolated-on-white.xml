@@ -1,0 +1,26 @@
+<annotation>
+	<folder>avocado_output</folder>
+	<filename>95825409-female-hand-holding-avocado-isolated-on-white.jpg</filename>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_output/95825409-female-hand-holding-avocado-isolated-on-white.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>221</ymin>
+			<xmax>1017</xmax>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+</annotation>
