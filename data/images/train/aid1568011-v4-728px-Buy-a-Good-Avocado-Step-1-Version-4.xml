@@ -1,38 +1,38 @@
 <annotation>
-	<folder>avocado_output</folder>
+	<folder>avocado_2_output</folder>
 	<filename>aid1568011-v4-728px-Buy-a-Good-Avocado-Step-1-Version-4.jpg</filename>
-	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_output/aid1568011-v4-728px-Buy-a-Good-Avocado-Step-1-Version-4.jpg</path>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_2_output/aid1568011-v4-728px-Buy-a-Good-Avocado-Step-1-Version-4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>728</width>
-		<height>728</height>
+		<width>600</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>unripe</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>326</xmin>
-			<ymin>51</ymin>
-			<xmax>683</xmax>
-			<ymax>318</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>ripe</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>77</xmin>
-			<ymin>103</ymin>
-			<xmax>521</xmax>
-			<ymax>432</ymax>
+			<xmin>63</xmin>
+			<ymin>184</ymin>
+			<xmax>430</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>142</ymin>
+			<xmax>564</xmax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 </annotation>

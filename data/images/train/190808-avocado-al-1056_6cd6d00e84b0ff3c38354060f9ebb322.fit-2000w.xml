@@ -1,13 +1,13 @@
 <annotation>
-	<folder>avocado_output</folder>
+	<folder>avocado_2_output</folder>
 	<filename>190808-avocado-al-1056_6cd6d00e84b0ff3c38354060f9ebb322.fit-2000w.jpg</filename>
-	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_output/190808-avocado-al-1056_6cd6d00e84b0ff3c38354060f9ebb322.fit-2000w.jpg</path>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_2_output/190808-avocado-al-1056_6cd6d00e84b0ff3c38354060f9ebb322.fit-2000w.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>600</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>120</xmin>
-			<ymin>229</ymin>
-			<xmax>781</xmax>
-			<ymax>939</ymax>
+			<xmin>35</xmin>
+			<ymin>169</ymin>
+			<xmax>235</xmax>
+			<ymax>382</ymax>
 		</bndbox>
 	</object>
 </annotation>

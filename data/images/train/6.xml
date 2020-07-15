@@ -1,13 +1,13 @@
 <annotation>
-	<folder>avocado_output</folder>
+	<folder>avocado_2_output</folder>
 	<filename>6.jpg</filename>
-	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_output/6.jpg</path>
+	<path>/home/jayden/Desktop/Self_Learning/Object_Detection/data_set/avocado_2_output/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>1024</height>
+		<width>600</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>542</ymin>
-			<xmax>681</xmax>
-			<ymax>897</ymax>
+			<xmin>310</xmin>
+			<ymin>318</ymin>
+			<xmax>499</xmax>
+			<ymax>526</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>392</xmin>
-			<ymin>100</ymin>
-			<xmax>683</xmax>
-			<ymax>508</ymax>
+			<xmin>331</xmin>
+			<ymin>59</ymin>
+			<xmax>499</xmax>
+			<ymax>300</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>53</xmin>
-			<ymin>343</ymin>
-			<xmax>410</xmax>
-			<ymax>649</ymax>
+			<xmin>131</xmin>
+			<ymin>201</ymin>
+			<xmax>342</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 </annotation>
