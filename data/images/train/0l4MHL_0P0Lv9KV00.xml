@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800_600</folder>
+	<filename>0l4MHL_0P0Lv9KV00.jpeg</filename>
+	<path>/home/jayden/Downloads/Test/800_600/0l4MHL_0P0Lv9KV00.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sesshomaru</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>1</ymin>
+			<xmax>800</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

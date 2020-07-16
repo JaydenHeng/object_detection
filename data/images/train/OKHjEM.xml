@@ -1,0 +1,26 @@
+<annotation>
+	<folder>800_600</folder>
+	<filename>OKHjEM.jpg</filename>
+	<path>/home/jayden/Downloads/Test/800_600/OKHjEM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sesshomaru</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>51</ymin>
+			<xmax>433</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+</annotation>
